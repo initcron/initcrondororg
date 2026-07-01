@@ -42,7 +42,7 @@ export default function Index() {
       </nav>
 
       {/* Hero Section */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-blue-50 via-white to-purple-50 pt-20 pb-20 md:pt-32 md:pb-32">
+      <section className="relative overflow-hidden bg-gradient-to-br from-blue-50 via-white to-blue-100 pt-20 pb-20 md:pt-32 md:pb-32">
         <div className="absolute inset-0 overflow-hidden">
           <div className="absolute top-0 right-0 w-96 h-96 bg-primary opacity-5 rounded-full blur-3xl" />
           <div className="absolute bottom-0 left-0 w-96 h-96 bg-primary opacity-5 rounded-full blur-3xl" />
@@ -88,7 +88,7 @@ export default function Index() {
             The next wave is <span className="font-semibold">AI-Native Engineering</span> — where engineering teams use AI to build, operate, secure, and scale modern software and AI systems.
           </p>
 
-          <div className="bg-gradient-to-br from-blue-50 to-purple-50 rounded-xl p-8 md:p-12">
+          <div className="bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl p-8 md:p-12">
             <p className="text-lg font-semibold text-gray-900 mb-6">This shift includes:</p>
             <ul className="space-y-4">
               {[
@@ -274,7 +274,7 @@ export default function Index() {
       </section>
 
       {/* Why Initcron AI Section */}
-      <section id="why" className="py-20 md:py-32 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-blue-50 to-purple-50">
+      <section id="why" className="py-20 md:py-32 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-blue-50 to-blue-100">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-8 text-center">
             Built on 14+ years of DevOps transformation experience
